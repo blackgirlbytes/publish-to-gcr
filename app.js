@@ -1,1 +1,1 @@
-console.log("WE LIIIIT AT COMPOSABILITY SUMMIT")
+console.log("Hello, World!")
